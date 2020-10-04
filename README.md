@@ -1,4 +1,4 @@
-# Class Representatives Web Platform
+# HW Tech Club Web Platform
 
 A platform for class representatives to share information to students.
 
@@ -7,7 +7,7 @@ This platform currently has the following functions:
 - A home page with:
 	- Links and resources
 	- Alerts
-	- List of class representatives
+	- List of HW Tech Club leadership Team
 - Announcements page
 	- Supports announcements written in Markdown, with tags support.
 - Anonymous tickets
@@ -20,11 +20,10 @@ This platform currently has the following functions:
 	- Automatically detects the class representatives responsible for a
 	  specific course.
 - Moderation log
-	- Logs class representatives administrative actions on the website for
+	- Logs HW Tech Club leadership Team administrative actions on the website for
 	  transparency.
 - Online configurator
-	- Allows class representatives to update the website's configuration (such
-	  as course and professor listing) online.
+	- Allows HW Tech Club leadership Team to update the website's configuration online.
 
 ### 2. Requirements
 
