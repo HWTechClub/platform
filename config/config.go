@@ -95,8 +95,8 @@ type DatabaseConfiguration struct {
 
 func newConfig() Configuration {
 	return Configuration{
-		SiteName:        "Platform",
-		SiteScope:       "Edinburgh · MACS · Year 4",
+		SiteName:        "HW Tech Club",
+		SiteScope:       "Dubai · MACS",
 		SitePort:        "8080",
 		VoterPepper:     uuid.New().String(),
 		DevMode:         true,

@@ -41,7 +41,7 @@ the same license. You also need to disclose changes done to the software.
 ### 4. Downloading and running
 
 ```sh
-$ git clone https://github.com/hw-cs-reps/platform
+$ git clone https://github.com/hwtechclub/platform
 $ cd platform
 $ go build
 ```
